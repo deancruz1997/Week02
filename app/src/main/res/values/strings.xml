@@ -9,13 +9,13 @@
 
     <string name="registration">Registration Form</string>
     <string name="description">Welcome to Adventure Learning Club!</string>
-    <string name="gender">Gender</string>
+    <string name="gender">Gender:</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
-    <string name="studentID">Student ID</string>
-    <string name="school">School</string>
-    <string name="email">Email</string>
-    <string name="phone">Phone</string>
+    <string name="studentID">Student ID:</string>
+    <string name="school">School:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
     <string name="register">Register</string>
     <string name="firstName">First Name</string>
     <string name="lastName">Last Name</string>
